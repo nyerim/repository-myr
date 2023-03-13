@@ -7,3 +7,5 @@
 ** 이수민[https://github.com/sumiiiiiiin/repository-lsm](https://github.com/sumiiiiiiin/repository-lsm)
 
 _예지_ _https://github.com/2yeji2/repository-yeji.git_
+
+* 이수빈 <https://github.com/arborinlove/repository-lsb> 
